@@ -4,7 +4,6 @@ public class Rectangle {
     private double width;
     private double length;
     Rectangle(){};
-
     public Rectangle(double width, double length) {
         this.width = width;
         this.length = length;
